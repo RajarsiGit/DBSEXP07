@@ -1,0 +1,341 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Distributed Book Store Database
+</name>
+</assembly>
+<members>
+<member name="T:Distributed_Book_Store_Database.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Distributed_Book_Store_Database.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Distributed_Book_Store_Database.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.book_storeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.booksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.book_storeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.booksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.book_storeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.booksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSet.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.book_storeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.booksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Distributed_Book_Store_Database.site1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Distributed_Book_Store_Database.site1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Distributed_Book_Store_Database.site1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.UpdateAll(Distributed_Book_Store_Database.site1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.book_storeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.booksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.book_storeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.booksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.book_storeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.booksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSet.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.book_storeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.booksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Distributed_Book_Store_Database.site2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Distributed_Book_Store_Database.site2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Distributed_Book_Store_Database.site2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.UpdateAll(Distributed_Book_Store_Database.site2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.book_storeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.booksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.stockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.book_storeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.booksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.stockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.book_storeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.booksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSet.stockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.book_storeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.booksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.stockTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Distributed_Book_Store_Database.site3DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Distributed_Book_Store_Database.site3DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Distributed_Book_Store_Database.site3DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.UpdateAll(Distributed_Book_Store_Database.site3DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Distributed_Book_Store_Database.site3DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

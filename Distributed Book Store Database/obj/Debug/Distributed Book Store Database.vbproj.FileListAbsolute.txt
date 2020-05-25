@@ -1,0 +1,32 @@
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Distributed Book Store Database.exe.config
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Distributed Book Store Database.exe
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Distributed Book Store Database.pdb
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Distributed Book Store Database.xml
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Web.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Zstandard.Net.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\bin\Debug\MySql.Web.xml
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed_Book_Store_Database.Form1.resources
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed_Book_Store_Database.Form2.resources
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed_Book_Store_Database.Form3.resources
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed_Book_Store_Database.Form4.resources
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed_Book_Store_Database.Resources.resources
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.exe
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.xml
+C:\Users\Administrator\source\repos\Distributed Book Store Database\Distributed Book Store Database\obj\Debug\Distributed Book Store Database.pdb
